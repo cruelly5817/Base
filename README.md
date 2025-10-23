@@ -1,4 +1,4 @@
-# TypiCMS
+# TypiCMS TEST
 
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](https://github.com/TypiCMS/Base/blob/master/LICENCE.md)
 [![Larastan](https://img.shields.io/badge/PHPStan-level%205-brightgreen.svg?style=flat-square)](https://github.com/nunomaduro/larastan)
